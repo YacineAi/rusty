@@ -1,0 +1,5 @@
+[dependencies]
+rocket = "0.5"
+rocket_codegen = "0.5"
+reqwest = "0.11"
+pdf2image = "0.6"
